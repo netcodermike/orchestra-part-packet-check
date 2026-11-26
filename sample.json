@@ -1,0 +1,29 @@
+{
+  "allow_marked": false,
+  "sections": [
+    {
+      "part": "Violin I",
+      "players": 9,
+      "players_per_copy": 2,
+      "spares": 1,
+      "clean_copies": 4,
+      "marked_copies": 3
+    },
+    {
+      "part": "Bassoon",
+      "players": 2,
+      "players_per_copy": 1,
+      "spares": 0,
+      "clean_copies": 3,
+      "marked_copies": 1
+    },
+    {
+      "part": "Clarinet in A",
+      "players": 3,
+      "players_per_copy": 1,
+      "spares": 1,
+      "clean_copies": 1,
+      "marked_copies": 2
+    }
+  ]
+}

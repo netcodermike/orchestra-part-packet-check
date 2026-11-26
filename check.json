@@ -1,0 +1,32 @@
+{
+  "command": [
+    "pwsh",
+    "-NoProfile",
+    "-File",
+    "app.ps1"
+  ],
+  "expected": {
+    "copies_needed": 12,
+    "copies_to_print": 5,
+    "parts": [
+      {
+        "part": "Violin I",
+        "copies_needed": 6,
+        "copies_available": 4,
+        "copies_to_print": 2
+      },
+      {
+        "part": "Bassoon",
+        "copies_needed": 2,
+        "copies_available": 3,
+        "copies_to_print": 0
+      },
+      {
+        "part": "Clarinet in A",
+        "copies_needed": 4,
+        "copies_available": 1,
+        "copies_to_print": 3
+      }
+    ]
+  }
+}
